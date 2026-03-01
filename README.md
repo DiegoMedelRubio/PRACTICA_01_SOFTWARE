@@ -7,17 +7,18 @@ Aplicación móvil orientada a ayudar a pacientes con patologías cardiacas en e
 Este repositorio contiene la gestión del proyecto y la identificación/gestión de requisitos, desarrollados mediante GitHub Issues, Milestones y documentación asociada.
 Integrantes del equipo:
 
-Diego Medel
+  Diego Medel
 
-Daniel Navajas
+  Daniel Navajas
 
-Guillermo Becerril
+  Guillermo Becerril
 
 Objetivos del proyecto:
-Identificar y documentar requisitos funcionales y no funcionales.
+  Identificar y documentar requisitos funcionales y no funcionales.
 
-Definir historias de usuario y criterios de aceptación.
+  Definir historias de usuario y criterios de aceptación.
 
-Gestionar el proyecto mediante metodología ágil (Sprints).
+  Gestionar el proyecto mediante metodología ágil (Sprints).
 
-Mantener trazabilidad mediante Issues y Milestones.
+  Mantener trazabilidad mediante Issues y Milestones.
+  
