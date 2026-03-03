@@ -1,0 +1,25 @@
+# Requisitos Funcionales
+
+## RF-01 Registro de frecuencia cardiaca
+El sistema debe permitir al paciente registrar manualmente su frecuencia cardiaca diaria.
+
+## RF-02 Registro de síntomas
+El sistema debe permitir al paciente introducir síntomas diarios.
+
+## RF-03 Recordatorios de medicación
+El sistema debe permitir configurar recordatorios automáticos de medicación.
+
+## RF-04 Consulta de historial
+El sistema debe mostrar el historial de datos registrados ordenado por fecha.
+
+## RF-05 Generación de alertas
+El sistema debe generar alertas cuando los valores registrados estén fuera de rango.
+
+## RF-06 Acceso profesional sanitario
+El sistema debe permitir al profesional sanitario consultar los datos del paciente.
+
+## RF-07 Autenticación segura
+El sistema debe requerir inicio de sesión mediante usuario y contraseña.
+
+## RF-08 Exportación de informes
+El sistema debe permitir generar un informe en formato PDF con los datos del paciente.
