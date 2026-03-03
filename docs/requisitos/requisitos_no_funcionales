@@ -1,0 +1,16 @@
+# Requisitos No Funcionales
+
+## RNF-01 Seguridad
+El sistema debe proteger los datos personales mediante autenticación segura.
+
+## RNF-02 Privacidad
+Los datos médicos deben cumplir la normativa de protección de datos vigente.
+
+## RNF-03 Rendimiento
+La aplicación debe responder en menos de 2 segundos en acciones normales.
+
+## RNF-04 Disponibilidad
+El sistema debe estar disponible al menos el 99% del tiempo.
+
+## RNF-05 Usabilidad
+La interfaz debe ser clara e intuitiva, especialmente para personas mayores.
